@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="CP"/>
+	<classpathentry kind="src" path="CodeAgon"/>
+	<classpathentry kind="src" path="SPOJ"/>
+	<classpathentry kind="src" path="WorldCodeSprint"/>
+	<classpathentry kind="src" path="LinkedListExample"/>
+	<classpathentry kind="src" path="Interview"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
